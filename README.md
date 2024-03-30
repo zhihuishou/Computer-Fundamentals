@@ -60,3 +60,8 @@ TCP/IP参考模型
 #### 思路：浏览器进程与WEB服务器进程基于网络的通信
 
 ![image](https://github.com/zhihuishou/Computer-Fundamentals/assets/161868456/06ffec83-0f0a-4d80-90f8-d094c829aefb)
+
+## DAY2
+### 物理层接口特性
+![Uploading image.png…]()
+
